@@ -48,6 +48,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [~Italian](%23/~Italian)
 * [~Javanese](%23/~Javanese)
 * [~Kannada](%23/~Kannada)
+* [~Latin](%23/~Latin)
 * [~Malay](%23/~Malay)
 * [~Malayalam](%23/~Malayalam)
 * [~Marathi](%23/~Marathi)
